@@ -6,4 +6,4 @@ tags={
 }
 picture="micro_system.jpg"
 remote_file_id="689628539"
-supported_version="1.6.*"
+supported_version="1.8.*"

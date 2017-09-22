@@ -12,7 +12,7 @@ Utilisé pour des parties extrèmements rapide.
 
 [h1]Compatible : [/h1]
 [list]
-[*] Game version 1.0.*, 1.1.*, 1.2.*, 1.3.*, 1.4.*, 1.5.*, 1.6.*
+[*] Game version 1.0.*, 1.1.*, 1.2.*, 1.3.*, 1.4.*, 1.5.*, 1.6.*, 1.7.*, 1.8.*
 [*] Other mod
 [*] Multiplayer (tested by __Wolf : Thanks)
 [*] Ironman (theoretical)
