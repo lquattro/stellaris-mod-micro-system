@@ -3,7 +3,7 @@
 ## Micro System
 
 ```
-[h1]-___Mod Verions 1.1.5___-[/h1]
+[h1]-___Mod Verions 1.1.6___-[/h1]
 
 EN : This little mod add Micro System (100 stars) and Baby System (50 stars).
 Use for a very fast game.
@@ -12,7 +12,7 @@ Utilisé pour des parties extrèmements rapide.
 
 [h1]Compatible : [/h1]
 [list]
-[*] Game version 1.0.*, 1.1.*, 1.2.*, 1.3.*, 1.4.*, 1.5.*, 1.6.*, 1.7.*, 1.8.*, 1.9.*, 2.0.*
+[*] Game version 1.0.*, 1.1.*, 1.2.*, 1.3.*, 1.4.*, 1.5.*, 1.6.*, 1.7.*, 1.8.*, 1.9.*, 2.0.*, 2.1.*
 [*] Other mod
 [*] Multiplayer (tested by __Wolf : Thanks)
 [*] Ironman (theoretical)
